@@ -3,3 +3,6 @@ Cuando inicie este proyecto, me tope con dos problemas. Por un lado la capacidad
 con referencia interna, externa, default) para no tener conflictos en las distintas funciones...
 El programa completo corre perfectamente en un Arduino MEGA, pero para poder hacerlo correr en el Arduino NANO, noten que achique el programa del frecuencímetro (igual están 
 las líneas que obvie para que pueda entrar en el NANO)...
+
+<img width="848" height="595" alt="displayOLED_I2c" src="https://github.com/user-attachments/assets/70fe63fd-ec2e-4b04-873f-ed1b5c8bb3d2" />
+
